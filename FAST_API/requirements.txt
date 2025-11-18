@@ -1,0 +1,20 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# LangChain core framework and OpenAI integration
+langchain
+langchain-community
+langchain-ollama
+mistral
+
+#Install MySQL Connector
+mysql-connector-python
+sqlalchemy
+
+# Environment variable loader
+python-dotenv
+
+chromadb
+pypdf
+python-multipart
